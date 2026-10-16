@@ -1,0 +1,46 @@
+timestamp,status,title,url,current_price,target_price,details
+2026-10-10T17:43:52+05:00,success,A Light in the Attic,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,51.77,1.00,Target not reached
+2026-10-10T17:45:05+05:00,success,A Light in the Attic,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,51.77,1.00,Target not reached
+2026-10-10T18:04:04+05:00,success,A Light in the Attic,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,51.77,999.00,Below target
+2026-10-10T18:04:04+05:00,alert_failed,A Light in the Attic,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,51.77,999.00,[Errno 11001] getaddrinfo failed
+2026-10-10T18:11:57+05:00,success,A Light in the Attic,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,51.77,999.00,Below target
+2026-10-10T18:11:57+05:00,alert_failed,A Light in the Attic,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,51.77,999.00,[Errno 11001] getaddrinfo failed
+2026-10-10T18:13:59+05:00,success,A Light in the Attic,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,51.77,999.00,Below target
+2026-10-10T18:13:59+05:00,alert_failed,A Light in the Attic,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,51.77,999.00,[Errno 11001] getaddrinfo failed
+2026-10-10T18:18:57+05:00,success,A Light in the Attic,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,51.77,999.00,Below target
+2026-10-10T18:18:57+05:00,alert_failed,A Light in the Attic,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,51.77,999.00,Connection unexpectedly closed
+2026-10-10T18:21:04+05:00,success,A Light in the Attic,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,51.77,999.00,Below target
+2026-10-10T18:21:04+05:00,alert_failed,A Light in the Attic,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,51.77,999.00,Connection unexpectedly closed
+2026-10-10T18:35:08+05:00,success,A Light in the Attic,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,51.77,999.00,Below target
+2026-10-10T18:35:08+05:00,alert_sent,A Light in the Attic,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,51.77,999.00,Email sent to ijlalnasiri8@gmail.com
+2026-10-10T18:55:00+05:00,success,A Light in the Attic,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,51.77,999.00,Below target
+2026-10-10T18:56:15+05:00,success,A Light in the Attic,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,51.77,999.00,Below target
+2026-10-10T18:57:22+05:00,success,A Light in the Attic,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,51.77,999.00,Below target
+2026-10-10T18:59:06+05:00,success,A Light in the Attic,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,51.77,999.00,Below target
+2026-10-10T19:00:12+05:00,success,A Light in the Attic,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,51.77,999.00,Below target
+2026-10-10T19:01:19+05:00,success,A Light in the Attic,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,51.77,999.00,Below target
+2026-10-10T19:02:25+05:00,success,A Light in the Attic,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,51.77,999.00,Below target
+2026-10-10T19:07:06+05:00,success,Sapiens: A Brief History of Humankind,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html,54.23,999.00,Below target
+2026-10-10T19:07:06+05:00,alert_sent,Sapiens: A Brief History of Humankind,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html,54.23,999.00,Email sent to ijlalnasiri8@gmail.com
+2026-10-10T19:08:16+05:00,success,Sapiens: A Brief History of Humankind,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html,54.23,999.00,Below target
+2026-10-10T19:09:23+05:00,success,Sapiens: A Brief History of Humankind,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html,54.23,999.00,Below target
+2026-10-10T19:10:29+05:00,success,Sapiens: A Brief History of Humankind,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html,54.23,999.00,Below target
+2026-10-10T19:11:37+05:00,success,Sapiens: A Brief History of Humankind,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html,54.23,999.00,Below target
+2026-10-10T19:12:44+05:00,success,Sapiens: A Brief History of Humankind,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html,54.23,999.00,Below target
+2026-10-10T19:13:51+05:00,success,Sapiens: A Brief History of Humankind,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html,54.23,999.00,Below target
+2026-10-10T19:14:58+05:00,success,Sapiens: A Brief History of Humankind,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html,54.23,999.00,Below target
+2026-10-10T19:16:04+05:00,success,Sapiens: A Brief History of Humankind,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html,54.23,999.00,Below target
+2026-10-10T19:17:11+05:00,success,Sapiens: A Brief History of Humankind,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html,54.23,999.00,Below target
+2026-10-10T19:18:17+05:00,success,Sapiens: A Brief History of Humankind,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html,54.23,999.00,Below target
+2026-10-10T19:19:24+05:00,success,Sapiens: A Brief History of Humankind,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html,54.23,999.00,Below target
+2026-10-10T19:20:31+05:00,success,Sapiens: A Brief History of Humankind,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html,54.23,999.00,Below target
+2026-10-10T19:21:38+05:00,success,Sapiens: A Brief History of Humankind,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html,54.23,999.00,Below target
+2026-10-10T19:22:45+05:00,success,Sapiens: A Brief History of Humankind,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html,54.23,999.00,Below target
+2026-10-10T19:23:51+05:00,success,Sapiens: A Brief History of Humankind,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html,54.23,999.00,Below target
+2026-10-10T19:24:58+05:00,success,Sapiens: A Brief History of Humankind,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html,54.23,999.00,Below target
+2026-10-10T19:26:05+05:00,success,Sapiens: A Brief History of Humankind,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html,54.23,999.00,Below target
+2026-10-10T19:27:11+05:00,success,Sapiens: A Brief History of Humankind,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html,54.23,999.00,Below target
+2026-10-10T19:28:16+05:00,success,Sapiens: A Brief History of Humankind,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html,54.23,999.00,Below target
+2026-10-10T19:29:21+05:00,success,Sapiens: A Brief History of Humankind,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html,54.23,999.00,Below target
+2026-10-10T19:30:26+05:00,success,Sapiens: A Brief History of Humankind,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html,54.23,999.00,Below target
+2026-10-10T19:31:31+05:00,success,Sapiens: A Brief History of Humankind,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html,54.23,999.00,Below target

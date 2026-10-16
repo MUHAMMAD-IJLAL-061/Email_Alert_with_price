@@ -1,0 +1,7 @@
+{
+  "title_selector": "div.product_main h1",
+  "price_selector": "p.price_color",
+  "currency": "GBP",
+  "page_load_timeout_seconds": 30,
+  "element_timeout_seconds": 15
+}
